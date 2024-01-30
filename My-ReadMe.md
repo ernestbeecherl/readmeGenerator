@@ -1,8 +1,8 @@
-# random project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+# ReadMeGenerator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 
   ## Description
-  bug fixing tool
+  The ability to create a quick and discriptive README
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,10 +13,10 @@
   - [Questions](#questions)
   
   ## Installation
-  download on computer
+  use through your computers terminal 
   
   ## Usage
-  fixing code
+  
   
   ## License
   This project is licensed under the MIT license.
@@ -29,6 +29,6 @@
   undefined
   
   ## Questions
-  My email [](mailto:). You can also find me on [GitHub](https://github.com/).
+  My email [ernestbeecherl98@gmail.com](mailto:ernestbeecherl98@gmail.com). You can also find me on [GitHub](https://github.com/ernestbeecherl@github.com).
 
   
