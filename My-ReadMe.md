@@ -1,8 +1,8 @@
-# ok [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+# random project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 
   ## Description
-  hello
+  bug fixing tool
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,10 +13,10 @@
   - [Questions](#questions)
   
   ## Installation
-  hi
+  download on computer
   
   ## Usage
-  hi
+  fixing code
   
   ## License
   This project is licensed under the MIT license.
@@ -29,6 +29,6 @@
   undefined
   
   ## Questions
-  My email [hi](mailto:hi). You can also find me on [GitHub](https://github.com/hi).
+  My email [](mailto:). You can also find me on [GitHub](https://github.com/).
 
   
